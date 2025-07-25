@@ -15,3 +15,4 @@ metadata:
 spec:
   type: ${{ values.applicationType }}
   lifecycle: ${{ values.lifecycle }}
+  owner: ${{ values.owner }}
