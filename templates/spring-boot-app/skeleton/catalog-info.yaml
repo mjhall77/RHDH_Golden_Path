@@ -16,3 +16,5 @@ spec:
   type: ${{ values.applicationType }}
   lifecycle: ${{ values.lifecycle }}
   owner: ${{ values.owner }}
+  providesApis:
+    - ${{ values.repoName }}-api
