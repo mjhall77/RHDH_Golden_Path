@@ -83,7 +83,6 @@ spec:
           title: ArgoCD Password
           type: string
           description: The password for ArgoCD login
-          default: 4BxbuHDeyr8PpLT67IgRtQZVNqWkajv1
       required:
         - argocdServer
         - argocdUsername
